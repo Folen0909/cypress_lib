@@ -1,0 +1,47 @@
+{
+  "items": "Add any data above form, like buttons, messages, tables....",
+
+
+
+
+  "loginBtn": "#login2",
+  "log": ".btn-primary",
+
+
+  "form": {
+    "inputFields": {
+      "exampleInput": "input[name='example']",
+      "exampleDate": "input[name='date']",
+      "exampleTextarea": "textarea[name='example']"
+    },
+    "suggestionFields": {
+      "exampleSuggestion": "input[name='example']"
+    },
+    "selectFields": {
+      "exampleSelect": "select[name='example']"
+    },
+    "checkFields": {
+      "exampleCheck": "input[name='example']"
+    }
+  },
+  "data": {
+    "correct": [
+      {
+        "exampleInput": "Some data",
+        "exampleDate": "#date",
+        "exampleSuggestion": "Search data",
+        "exampleSelect": "Selection value",
+        "exampleTextarea": "Random text",
+        "checkFields": true
+      },
+      {
+        "exampleInput": "Some data #uniqueID",
+        "exampleDate": "#date 4",
+        "exampleSuggestion": "Search data",
+        "exampleSelect": "Selection value",
+        "exampleTextarea": "Random text",
+        "checkFields": true
+      }
+    ]
+  }
+}

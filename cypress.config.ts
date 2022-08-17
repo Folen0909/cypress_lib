@@ -12,7 +12,8 @@ module.exports = defineConfig({
       "email" : "",
       "password": "",
       "locale": "en-US",
-      "specialDateFormat": ""
+      "specialDateFormat": "",
+      "baseUrl": "https://www.demoblaze.com/"
     }
   },
 });
