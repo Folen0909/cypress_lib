@@ -7,13 +7,13 @@ module.exports = defineConfig({
     viewportHeight: 1080,
     numTestsKeptInMemory: 100,
     experimentalSessionAndOrigin: true,
-    baseUrl: "https://www.demoblaze.com/",
+    baseUrl: "https://gigabeetno.a1.hr/",
     env: {
       "email" : "",
       "password": "",
       "locale": "en-US",
       "specialDateFormat": "",
-      "baseUrl": "https://www.demoblaze.com/"
+      "baseUrl": "https://gigabeetno.a1.hr/"
     }
   },
 });
